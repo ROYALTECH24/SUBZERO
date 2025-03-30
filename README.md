@@ -16,11 +16,10 @@
 
 > **Current Bot Version ➜ `3.1.0⚡`**
 ---
-
+```
 Dont forget to fork 🍴 & star 🌟 repo😇
+```
 
-php-template
-Copy code
 ---
 
 <p align="center">
