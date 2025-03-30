@@ -1,17 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=SUBZERO%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
-
-
 <p align="center">
   <h1 align="center">❄️ SUBZERO-MD ❄️</h1>
 </p>
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfrank-ofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrank-ofc/SUBZERO-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrank-ofc/SUBZERO-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrank-ofc/SUBZERO-BOT?style=flat-square&color=green"></a>
-<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/mrfraank/SUBZERO/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfraank?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfraank/SUBZERO/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfraank/SUBZERO?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfraank/SUBZERO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfraank/SUBZERO?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfraank/SUBZERO/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfraank/SUBZERO?style=flat-square&color=green"></a>
+<a href="https://github.com/mrfraank/SUBZERO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -19,13 +17,14 @@
 > **Current Bot Version ➜ `3.1.0⚡`**
 ---
 
-```
 Dont forget to fork 🍴 & star 🌟 repo😇
-```
+
+php-template
+Copy code
 ---
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc">
+  <a href="https://github.com/mrfraank/SUBZERO">
     <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=SUBZERO-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
   </a>
 </p>
@@ -39,7 +38,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ***
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Frank-397604.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/mrfraank/SUBZERO"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Frank-397604.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -47,17 +46,16 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SUBZERO-BOT}/count.svg" alt="mrfrank-ofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mrfrank-ofc}/count.svg" /></p>
-
+ <p align="center"><img src="https://profile-counter.glitch.me/{SUBZERO}/count.svg" alt="mrfrank-ofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mrfrank-ofc}/count.svg" /></p>
 
 <p align="center">
-<a href="https://github.com/mrfrank-ofc/SUBZERO-BOT"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SUBZERO-BOT&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/mrfraank/SUBZERO"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SUBZERO&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc/SUBZERO-BOT"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/mrfraank/SUBZERO"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -67,7 +65,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/mrfrank-ofc/SUBZERO-BOT/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-BOTh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/mrfraank/SUBZERO/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-BOTh?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -87,8 +85,6 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 </a>
 <br> 
 
-
-
 ---
 
 <h2 align="center">SubZero Deployment Options</h2>
@@ -98,9 +94,8 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 <h4 align="center">1. Heroku</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
-
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfrank-ofc/SUBZERO-BOT/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfraank/SUBZERO/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ----------
 
@@ -153,13 +148,11 @@ That's all bot connected
 
 --------------
 
-
 <h4 align="center">3. Koyeb</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
-
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=mrfrank-ofc/SUBZERO-BOT&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SUBZERO-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=mrfraank/SUBZERO&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SUBZERO-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
 -----
 <h4 align="center">4. Railway</h4>
@@ -203,7 +196,7 @@ That's all bot connected
 1. Go to hugginface.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/mrfrank-ofc/SUBZERO-MD
+1. Go to https://huggingface.co/spaces/mrfraank/SUBZERO-MD
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -224,7 +217,6 @@ That's all bot connected
 
 --------------
 
-
 <h4 align="center">7. Replit</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
@@ -235,7 +227,6 @@ That's all bot connected
  <h4 align="center">8. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
-
 <details>
 
 <b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
@@ -245,46 +236,39 @@ That's all bot connected
 <h3 align-"center"> Important</h3>
 <h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
-```
 name: Node.js CI
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+on: push: branches: - main pull_request: branches: - main
 
-jobs:
-  build:
+jobs: build:
 
-    runs-on: ubuntu-latest
+yaml
+Copy code
+runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [20.x]
+strategy:
+  matrix:
+    node-version: [20.x]
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+steps:
+- name: Checkout repository
+  uses: actions/checkout@v3
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
+- name: Set up Node.js
+  uses: actions/setup-node@v3
+  with:
+    node-version: ${{ matrix.node-version }}
 
-    - name: Install dependencies
-      run: npm install
+- name: Install dependencies
+  run: npm install
 
-    - name: Start application
-      run: npm start
-```
+- name: Start application
+  run: npm start
+yaml
+Copy code
 </details> 
 
 ***
-
-
 
 
 ## 🌐 WhatsApp Channel 
@@ -317,7 +301,7 @@ Stay connected with the latest updates and community by joining our official Wha
 ### Thank You Dear
 
 > DEVELOPER OF SUBZERO-MD 
-- [Mr Frank ](https://github.com/mrfrank-ofc)
+- [Mr Frank ](https://github.com/mrfraank/SUBZERO)
 - Creater and Owner Of SUBZERO-MD
 
 > SUBZERO-MD Helper
@@ -339,7 +323,14 @@ Stay connected with the latest updates and community by joining our official Wha
 ```
 Thank you Pikachu, KHAN, SILENT SOBX, KERM & you supporters
 ```
+
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ------
+
+
+
+
+
+
