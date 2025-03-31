@@ -21,31 +21,15 @@
       "required": false,
       "value": "public"
     },
-    "STICKER_NAME": {
-      "description": "type your sticker pack name.",
-      "required": false,
-      "value": "𝚂𝚄𝙱𝚉𝙴𝚁𝙾-𝙱𝙾𝚃"
+    
     },
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
       "value": "false"
     },
-    "AUTO_VOICE": {
-      "description": "Make it true if want automatic voice reply.",
-      "required": false,
-      "value": "false"
-    },
-    "AUTO_REPLY": {
-      "description": "Make it true if you want automatic reply.",
-      "required": false,
-      "value": "false"
-    },
-    "AUTO_STICKER": {
-      "description": "Make it true if you want automatic sticker.",
-      "required": false,
-      "value": "false"
-    },
+    
+    
     "AUTO_STATUS_REACT": {
       "description": "Make it true for automatic status react & seen.",
       "required": true,
@@ -86,11 +70,7 @@
       "required": false,
       "value": "false"
     },
-    "DESCRIPTION": {
-      "description": "add caption for menu and other.",
-      "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*"
-    },
+    
     "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member.",
       "required": false,
@@ -121,11 +101,7 @@
       "required": false,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     },
-    "ANTI_DEL_PATH": {
-      "description": "change it to -same- if you want to resend deleted message in same chat.",
-      "required": false,
-      "value": "log"
-    },
+    
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
       "required": false,
