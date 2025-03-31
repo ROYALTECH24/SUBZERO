@@ -79,7 +79,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 
 > **2️⃣Pair Code (Session ID)**
 
-<a href='https://subzero-md.koyeb.app/ target="_blank">
+<a href='https://subzero-md.koyeb.app/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
