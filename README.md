@@ -64,7 +64,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/mrfraank/SUBZERO/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-BOTh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/mrfr4nKk/SUBZERO/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-BOTh?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -94,7 +94,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfraank/SUBZERO/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfr4nkk/SUBZERO/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ----------
 
