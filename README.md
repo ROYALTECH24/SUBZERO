@@ -23,7 +23,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ---
 
 <p align="center">
-  <a href="https://github.com/mrfraank/SUBZERO">
+  <a href="https://github.com/mrfr4nkk/SUBZERO">
     <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=SUBZERO-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
   </a>
 </p>
