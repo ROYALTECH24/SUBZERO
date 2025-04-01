@@ -5,9 +5,9 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     rm -rf /var/lib/apt/lists/*
 USER node
-RUN git clone https://github.com/mrfrank-ofc/SUBZERO-BOT.git /home/node/SUBZERO-BOT
-WORKDIR /home/node/SUBZERO-BOT
-RUN chmod -R 777 /home/node/SUBZERO-BOT/
+RUN git clone https://github.com/mrfr4nkk/SUBZERO.git /home/node/SUBZERO
+WORKDIR /home/node/SUBZERO
+RUN chmod -R 777 /home/node/SUBZERO/
 RUN yarn install --network-concurrency 1
 EXPOSE 7860
 ENV NODE_ENV=production
